@@ -41,6 +41,7 @@ results*.csv
 coco/
 coco128/
 VOC/
+dataset/*
 
 coco2017labels-segments.zip
 test2017.zip
@@ -161,6 +162,7 @@ celerybeat-schedule
 .venv*
 venv*/
 ENV*/
+yolov7training/
 
 # Spyder project settings
 .spyderproject
